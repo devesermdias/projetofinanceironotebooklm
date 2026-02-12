@@ -1,5 +1,8 @@
 # 🚀 Nome da sua Criação (Gerada via NotebookLM)
 
+para acessar o NOTEBOOK LM REFERENTE A ESSE PROJETO: https://notebooklm.google.com/notebook/065f0554-5032-4b9e-bf97-b998f0752d04
+
+
 *(Este projeto é uma iniciativa independente de educação financeira que visa solucionar a falta de preparo na gestão de recursos e o problema do superendividamento, capacitando os cidadãos a tomarem decisões mais autônomas e conscientes para melhorar sua qualidade de vida.)*
 
 ## 📝 Visão Geral
